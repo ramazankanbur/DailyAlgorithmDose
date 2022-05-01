@@ -11,6 +11,6 @@
     <None Remove="playground\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="playground\" />
+    <Folder Include="CodilityPlayground\" />
   </ItemGroup>
 </Project>
